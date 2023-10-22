@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="tashuuuu" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+# Badges
+[![An image of @tashuuuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tashuuuu)](https://holopin.io/@tashuuuu)
 
 - 📫 How to reach me **akritisengarr@gmail.com**
 
